@@ -7,7 +7,7 @@ function soma(a, b) {
 }
 
 function subtracao(a, b) {
-    const resultado = a;
+    const resultado = a - b;
     return `Deu certo a subtração viu!!! ${resultado}`;
 }
 
