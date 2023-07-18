@@ -2,5 +2,4 @@ const core = require('@actions/core');
 
 const person = core.getInput('person');
 
-console.log(`Welcome ${person}! to v1.2.0`);
-
+console.log(`Welcome ${person}! to Sei lá qual versão`);
