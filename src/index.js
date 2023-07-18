@@ -1,5 +1,6 @@
-const core = require('@actions/core');
+const numero1 = 10;
+const numero2 = 20;
 
-const person = core.getInput('person');
-
-console.log(`Welcome ${person}! Ao oitavo teste!`);
+function soma(a, b) {
+    return a + b;
+}
